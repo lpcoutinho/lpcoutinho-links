@@ -22,3 +22,4 @@ icon_size = 20
 
 st_button('medium', 'https://www.medium.com/@coutinholps', 'Read my Posts', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/luizpaulocoutinho/', 'Follow me on LinkedIn', icon_size)
+st_button('git', 'https://github.com/lpcoutinho', 'See my Git', icon_size)
